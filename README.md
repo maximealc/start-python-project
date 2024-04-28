@@ -1,6 +1,6 @@
 # start-python-project
 
-Quick and dirty script to automate the setup of a new Python project on a Mac, as I always follow the same steps (initializing a new virtual environment with a few basic data science libraries and setting up an online Git repo).
+Quick and dirty script to automate the setup of a new data science project on my Mac.
 
 ## Features
 - Creates a new project directory.
